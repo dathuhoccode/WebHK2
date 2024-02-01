@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.cat {
+    width: 10px;
+    height: 10px;
+    background-color: #ac3333; /* Màu vàng */
+    position: absolute;
+    border-radius: 50%;
+    pointer-events: none;
+    transition: transform 0.1s;
+}

@@ -1,0 +1,17 @@
+h1{
+ text-align: center;
+}
+/*body{*/
+/* background-image: url("../picture/img.png");*/
+/* background-size: cover;*/
+/*}*/
+.texthead{
+ color: #ac3333;
+}
+.text{
+ font-size: 60px;
+ font-family: "Book Antiqua",sans-serif;
+}
+.head{
+ background: aqua;
+}
